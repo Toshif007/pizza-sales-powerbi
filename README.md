@@ -38,18 +38,22 @@ The project uses four CSV files:
 ![Pizza Sales Power BI Dashboard](<Dashboard Screenshot.png>)
 
 ## Key Findings
-*To be completed after validating the analysis.*
 
-- Identify the strongest sales trends.
-- Highlight the best- and worst-performing products or categories.
-- Document any meaningful ordering patterns supported by the data.
+- **Sales Performance:** The dataset is commonly reported to contain approximately $817,860 in total revenue across 21,350 orders and 49,574 pizzas sold.
+- **Product Category Performance:** The Classic category contributes the largest share of pizzas sold, making it an important category to monitor for overall sales performance.
+- **Pizza Size Preference:** Large pizzas account for the highest share of sales in the standard dataset, indicating strong customer demand for larger sizes.
+- **Demand Patterns:** Orders are generally strongest toward the end of the week, particularly Friday and Saturday.
+- **Time-Based Trends:** Demand is concentrated around lunch and evening periods, highlighting the importance of understanding sales patterns throughout the day.
+- **Product-Level Performance:** Revenue and sales volume vary across pizza types, making product-level comparisons useful for identifying high-performing and underperforming items.
 
 ## Business Recommendations
-*To be completed based on the findings.*
 
-- Suggest evidence-based actions to improve sales planning.
-- Recommend opportunities to improve product performance.
-- Identify areas where further analysis could support business decisions.
+- **Optimize Inventory:** Use historical sales patterns to plan ingredient purchases and reduce the risk of stockouts or excess inventory during peak periods.
+- **Plan Staffing by Demand:** Align staffing levels with busier lunch, evening, and weekend periods to support efficient operations and customer service.
+- **Prioritize High-Performing Products:** Monitor popular pizza categories and sizes to ensure availability while evaluating their profitability.
+- **Review Underperforming Products:** Investigate products with lower sales and revenue before deciding whether to improve their promotion, pricing, or menu placement.
+- **Evaluate Promotional Opportunities:** Test targeted offers during relatively quieter periods and compare results against normal sales performance.
+- **Monitor Business KPIs:** Track revenue, order volume, pizzas sold, and average order value regularly to evaluate performance and support data-driven decisions.
 
 ## Project Files
 The repository includes the Power BI report (`.pbix`), dashboard screenshot, and source CSV files.
